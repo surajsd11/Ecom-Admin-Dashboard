@@ -2,6 +2,7 @@ Ecom Admin Dashboard
 The Ecom Admin Dashboard is a comprehensive web application designed to streamline the
 management of your e-commerce platform. It offers a user-friendly interface for administrators to
 efficiently oversee products, orders, and customer interactions.
+sitelink--https://ecom-admin-dashboard-frontend.onrender.com
 ## Features
 - **Product Management**: Easily add, update, or remove products from your catalog.
 - **Order Tracking**: Monitor and manage customer orders with real-time updates.
